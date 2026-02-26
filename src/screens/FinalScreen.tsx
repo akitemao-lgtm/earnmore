@@ -20,7 +20,7 @@ const FinalScreen = ({ balance }: FinalScreenProps) => {
   }, []);
 
   const handleFinalClick = () => {
-    window.location.href = "https://creator-stack.checkoutpage.com/creator-stack";
+    window.location.href = "https://creator-stack-pack.checkoutpage.com/creator-pack";
   };
 
   return (
